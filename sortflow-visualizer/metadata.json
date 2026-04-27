@@ -1,0 +1,5 @@
+{
+  "name": "SortFlow Visualizer",
+  "description": "An interactive sorting algorithm visualizer featuring Bubble Sort, Quick Sort, Merge Sort, and more with real-time speed control and fluid animations.",
+  "requestFramePermissions": []
+}
